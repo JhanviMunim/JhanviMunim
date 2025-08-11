@@ -7,17 +7,17 @@ with
 
 - 📚 I'm a **Master's of Science in Information Systems with concentration in Data Science graduate** (2024) from [Pace University.](https://www.pace.edu/)
 - 📚 I have completed my bachelor's in **Electronics and Telecommunications Engineering** from [St Francis Institute of Technology.](https://www.sfit.ac.in/)
-- 🌱 Throughout my course, I've learnt about Machine Learning, Big Data Analytics, Statistical Analysis, Data Cleaning, Data Modeling, Data Analytics
+- 🌱 Throughout my course, I've learnt about Machine Learning, Big Data Analytics, Statistical Analysis, Data Cleaning, Data Modeling and  Data Analytics.
 
 <!-- Contact -->
 <!-- Contact -->
 
 
   <p><strong>📫 Connect with me: </strong>&nbsp;
-  <a href="mailto:nehasmasurkar@gmail.com">
+  <a href="mailto:jhanvi.munim02@gmail.com">
     <img width="45" src="https://github.com/NehaMasurkarr/NehaMasurkarr/blob/main/icons8-gmail-48.png?raw=true" alt="Gmail"/>
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/nehasitarammasurkar/">
+  <a href="www.linkedin.com/in/jhanvi-munim/">
     <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn"/>
   </a> &nbsp;
 </p>
