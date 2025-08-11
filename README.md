@@ -10,7 +10,7 @@
  
 </div>
 
-with
+
 
 - 📚 I'm a **Master's of Science in Information Systems with concentration in Data Science graduate** (2024) from [Pace University.](https://www.pace.edu/)
 - 📚 I have completed my bachelor's in **Electronics and Telecommunications Engineering** from [St Francis Institute of Technology.](https://www.sfit.ac.in/)
