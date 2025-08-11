@@ -15,12 +15,13 @@ with
 
   <p><strong>📫 Connect with me: </strong>&nbsp;
   <a href="mailto:jhanvi.munim02@gmail.com">
-    <img width="45"" alt="Gmail"/>
+      <img width="45" src="https://github.com/NehaMasurkarr/NehaMasurkarr/blob/main/icons8-gmail-48.png?raw=true" alt="Gmail"/>
   </a> &nbsp;
-  <a href="www.linkedin.com/in/jhanvi-munim/">
+  <a href="www.linkedin.com/in/jhanvi-munim">
     <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn"/>
   </a> &nbsp;
 </p>
+
 
 
 # 💻 Tech Stack:
